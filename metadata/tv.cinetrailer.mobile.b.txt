@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Video
 Summary:CineTrailer
 Description:
-CineTrailer
+Watch online video, film
 .

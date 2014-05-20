@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Music
 Summary:Radio FM
 Description:
-Radio FM
+Used to listen to radio programs
 .

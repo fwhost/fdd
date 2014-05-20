@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Audio
+Summary:Fluent English
+Description:
+This is an audio application, can be used to listen to the story, learning
+.

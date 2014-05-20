@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:White Tiles
+Description:
+One can only take the white part of the leisure game
+.

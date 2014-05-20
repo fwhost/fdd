@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:News
+Summary:BBC Sport
+Description:
+Watch sports news, all kinds of news
+.

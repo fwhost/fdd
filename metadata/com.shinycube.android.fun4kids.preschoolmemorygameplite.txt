@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Game
 Summary:Preschool Memory Game Lite
 Description:
-Preschool Memory Game Lite
+A simple memory game for the same things, suitable for children to learn
 .

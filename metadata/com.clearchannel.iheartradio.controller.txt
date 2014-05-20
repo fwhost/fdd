@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Music
 Summary:iHeartRadio
 Description:
-iHeartRadio
+Listen to the music on the net
 .

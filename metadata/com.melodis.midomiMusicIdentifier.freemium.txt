@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Music
 Summary:SoundHound
 Description:
-SoundHound
+Used to listen to the network audio and music
 .

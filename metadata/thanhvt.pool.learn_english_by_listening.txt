@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Audio
+Summary:Learn English
+Description:
+By listening to the reading content application to learning
+.

@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Checkers
+Description:
+Chinese checkers
+.

@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Video
 Summary:FilmOn Live TV
 Description:
-FilmOn Live TV
+For the viewing of online news, video, sports program
 .

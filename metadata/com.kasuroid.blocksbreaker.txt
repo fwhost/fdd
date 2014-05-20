@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Blocks Breaker
+Description:
+By clicking on the beauty, the same block erase
+.

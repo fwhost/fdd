@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Video
+Summary:INNO TV
+Description:
+this is application Can be used to watch videos, online TV programs
+.

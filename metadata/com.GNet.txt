@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Video
 Summary:TV for Android
 Description:
-TV for Android
+To watch a short video on the Internet, music MV
 .

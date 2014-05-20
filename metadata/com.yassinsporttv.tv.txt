@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Video
 Summary:Online Sport TV HD
 Description:
-Online Sport TV HD
+For the viewing of online sports program
 .

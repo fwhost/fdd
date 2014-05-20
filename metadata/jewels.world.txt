@@ -2,8 +2,8 @@ License:Unknown
 Web Site:
 Source Code:
 Issue Tracker:
-Categories:Video
+Categories:Game
 Summary:Jewels World
 Description:
-Jewels World
+Mobile diamonds, for the same three eliminate to score
 .

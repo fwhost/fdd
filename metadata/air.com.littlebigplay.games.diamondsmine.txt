@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Game
 Summary:Diamonds Mine
 Description:
-Diamonds Mine
+By eliminating the squares of the same color to score
 .

@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Video
 Summary:Mobile Live TV
 Description:
-Mobile Live TV
+Applicaion used to watch online TV, video, music
 .

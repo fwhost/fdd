@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Shaving Craft
+Description:
+By moving the mouse to the people in the game to shave
+.

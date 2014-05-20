@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Farm Heroes Fruit
+Description:
+By shooting, the same fruit destroyed
+.

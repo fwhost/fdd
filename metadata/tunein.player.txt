@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:Music
 Summary:TuneIn Radio
 Description:
-TuneIn Radio
+Listen to the music and sports program on the net 
 .

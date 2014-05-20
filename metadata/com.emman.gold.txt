@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Gold Miner
+Description:
+A game by adjusting the hands of the rope to earn gold 
+.
