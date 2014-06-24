@@ -2,8 +2,8 @@ License:Unknown
 Web Site:
 Source Code:
 Issue Tracker:
-Categories:Music
+Categories:Audio
 Summary:TuneIn Radio
 Description:
-Listen to the music and sports program on the net 
+TuneIn offers users the ability to listen to streaming audio of thousands of radio networks and radio stations in the United States and worldwide, including AM, FM, HD, LP, digital and internet stations. Additionally, a large selection of podcasts are available for streaming on TuneIn. TuneIn's directory carries approximately 100,000 live stations and 4,000,000 podcasts.TuneIn's website is currently available in 22 different languages. Each language has its own version of the website with content tailored for the specific language or region.
 .

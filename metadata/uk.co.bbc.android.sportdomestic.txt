@@ -5,5 +5,5 @@ Issue Tracker:
 Categories:News
 Summary:BBC Sport
 Description:
-Watch sports news, all kinds of news
+The official BBC Sport app is the sports fan’s guide to live sport news, stats, fixtures and results, curated by the BBC’s team of sport journalists. Users can also read articles and analysis, set football team notifications and even customise and set quick links to favourite sports and football teams.A network connection is required in order to access content.
 .

@@ -2,8 +2,8 @@ License:Unknown
 Web Site:
 Source Code:
 Issue Tracker:
-Categories:Music
+Categories:Audio
 Summary:iHeartRadio
 Description:
-Listen to the music on the net
+Listen to live radio stations, create your own artist radio from 15 million free songs, or tune in to thousands of shows & personalities on demand for free.
 .

@@ -3,7 +3,9 @@ Web Site:
 Source Code:
 Issue Tracker:
 Categories:Video
-Summary:CineTrailer
+Summary:CineTrailer.tv
 Description:
-Watch online video, film
+CineTrailer.tv shows the latest updates about movies you can find in cinemas and on DVD.
+
+Tag: cinema, trailer, movie finder, cast, poster, photo, coming soon, home video, dvd, blu-ray, film, HQ, HD, Tablet, Tab
 .

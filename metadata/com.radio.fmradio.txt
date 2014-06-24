@@ -2,8 +2,10 @@ License:Unknown
 Web Site:
 Source Code:
 Issue Tracker:
-Categories:Music
+Categories:Audio
 Summary:Radio FM
 Description:
-Used to listen to radio programs
+Radio FM (Radio For Mobile) app is to play any online, LIVE, Internet based Radio. Radio FM allows you to listen and enjoy variety of genres like songs, music, talks, news, comedy, shows, concerts, and other variety of programs available live by various Internet Radios.
+
+Radio FM Users can enter their own choice of radio by entering the information of station or tune in to any radio from the Directory of more than 10,000 stations grouped by countries.
 .

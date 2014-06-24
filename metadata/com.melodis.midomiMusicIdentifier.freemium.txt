@@ -2,8 +2,8 @@ License:Unknown
 Web Site:
 Source Code:
 Issue Tracker:
-Categories:Music
+Categories:Audio
 Summary:SoundHound
 Description:
-Used to listen to the network audio and music
+SoundHound is a music search engine available on the Android platform.It enables users to identify music by playing, singing or humming a piece.It is also possible to speak or type the name of the artist, composer, song and piece.The app can return the lyrics (if any), links to videos on YouTube, links to iTunes, ringtones, the ability to launch Pandora Radio, as well as recommendations for other music.SoundHound is free but has banner ads.
 .

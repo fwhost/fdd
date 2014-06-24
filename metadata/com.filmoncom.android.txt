@@ -3,7 +3,8 @@ Web Site:
 Source Code:
 Issue Tracker:
 Categories:Video
-Summary:FilmOn Live TV
+Summary:FilmOn.TV
 Description:
-For the viewing of online news, video, sports program
+FilmOn Live TV.Anytime.Anywhere.
+FilmOn enables you to watch live TV for free wherever an internet connection is available. You can watch your local channels or select from our huge line-up of channels from the US, Europe, Latin America and Asia. Watch live Sports, News, Lifestyle, Movies, Shopping, Kids and more.
 .
