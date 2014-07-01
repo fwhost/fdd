@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Communication
+Summary:Skype
+Description:
+Communication tool for Calling,Video,Messaging,Sharing and More
+.

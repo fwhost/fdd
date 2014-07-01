@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:TED
+Description:
+TED's mission of "Ideas Worth Spreading" reaches far beyond the conference and video series, encompassing a variety of projects and initiatives that leverage the power of ideas
+.

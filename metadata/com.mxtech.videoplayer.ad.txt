@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Video
+Summary:MX Player
+Description:
+MX Player is a powerful multi-format video player for Android devices. The biggest strength of MX Player is that it can play a wide variety of formats
+.

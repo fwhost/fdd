@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Communication
+Summary:WeChat
+Description:
+Available for all kinds of platforms; enjoy group chat; support voice,photo,video and text messages.
+.

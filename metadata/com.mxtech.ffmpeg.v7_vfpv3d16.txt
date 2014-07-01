@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:MX Player Codec (ARMv7)
+Description:
+MX Player Codec for ARMv7
+.
