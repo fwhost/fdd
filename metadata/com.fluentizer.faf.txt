@@ -1,9 +1,0 @@
-License:Unknown
-Web Site:
-Source Code:
-Issue Tracker:
-Categories:Audio
-Summary:Fluent English
-Description:
-FluentEnglish will help you practice understanding native English speakers and increase your vocabulary. It works like an audio book reader and also provides translation for words that you don't understand. For better learning, it also provides pronunciations of each word in several different voices. To learn English with Fluentizer efficiently and to be able to use the dictionaries, your native language needs to be one of the following: Arabic, Armenian, Bulgarian, Chinese, Czech, French, German, Hindi, Croatian, Hungarian, Italian, Japanese, Korean, Persian, Polish, Portuguese, Russian, Spanish, Swedish, Thai, Turkish, Ukrainian, or Vietnamese.
-.

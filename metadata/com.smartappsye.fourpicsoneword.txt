@@ -1,9 +1,0 @@
-License:Unknown
-Web Site:
-Source Code:
-Issue Tracker:
-Categories:Game
-Summary:4Pics 1Word
-Description:
-Through a number of similar images, to find common ground, to guess the word
-.
