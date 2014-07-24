@@ -1,0 +1,18 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Visual Acuity
+Description:
+Visual Acuity
+This eye test is designed to monitor acuteness and clearness of vision in person's eyes in the most pleasant, intuitive and stress-free way for FREE.
+Vision test is useful for:
+- Patients with blurred or distorted vision
+- Patients that have eye strains or chronic headaches or fatigue
+- Patients who have memorized the office chart
+- House visits
+- Household tests for adults who have doubts if a doctor's visit is required
+- Household tests for children
+- Schools, kindergartens, universities or offices for monitoring
+.

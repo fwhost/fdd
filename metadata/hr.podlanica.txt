@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Music Volume EQ
+Description:
+Make it your Android™ sounds like never before.
+Music Volume EQ is a volume slider with live music stereo led VU meter and five band Equalizer with Bass Boost and Virtualizer effects.
+Improve sound quality on your Android™ device and get live audio readings of your current music volume level.
+.

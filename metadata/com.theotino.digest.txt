@@ -1,0 +1,10 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:News
+Summary:ChinaDaily
+Description:
+China Daily is the largest English newspaper in China, boasting an average daily circulation of more than 900,000 in about 150 countries and regions. The United States, the United Nations, the White House and the US Congress are among our subscribers. As a bridge connecting China and the world, China Daily News app brings you:
+Latest and essential stories in top news, china, world, special, business, sports, life, culture and opinion etc.
+.

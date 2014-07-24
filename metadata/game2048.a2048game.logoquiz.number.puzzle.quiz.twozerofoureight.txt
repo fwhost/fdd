@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:2048
+Description:
+This 2048 game is a simple, fun, and addictive number puzzle game. Join the numbers and get to the 2048 tile!
+HOW TO PLAY:
+Swipe (Up, Down, Left, Right) to move the tiles. When two tiles with the same number touch, they merge into one. When 2048 tile is created, you wins!
+.

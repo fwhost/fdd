@@ -1,0 +1,12 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Audio
+Summary:Google Play Music
+Description:
+Google Play Music
+Google Play Music makes it easy to discover, play and share the music you love on Android and the web.
+With our new All Access service, you can play millions of songs on Google Play, listen to radio with no limits, and enjoy playlists handcrafted by our music experts.
+With both All Access and Standard, the Google Play Music app lets you listen to your music collection anywhere. All your music is stored online, so no need to worry about syncing, storage space or offline playback.
+.

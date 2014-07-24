@@ -1,0 +1,10 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:WebMD
+Description:
+24/7 access to health information and decision-support tools.
+WebMD for Android helps you with your decision-making and health improvement efforts by providing mobile access 24/7 to mobile-optimized health information and decision-support tools including WebMD’s Symptom Checker, Drugs & Treatments, First Aid Information and Local Health Listings. WebMD the App also gives you access to first aid information without having to be connected wirelessly – critical if you don’t have Internet access in the time of need. 
+.

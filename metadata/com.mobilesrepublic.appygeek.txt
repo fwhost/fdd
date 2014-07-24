@@ -1,0 +1,17 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:News
+Summary:Appy Geek
+Description:
+The number 1 geek and tech news app with an elegant design, unrivaled news coverage and a simple, delightful interface optimized for smartphones and tablets.
+- Visual: Get of all latest news from your favorite topics in a highly dynamic graphical format.
+- Smart: Appy Geek learns what you like to read about and personalizes your news experience automatically.
+- Comprehensive: Enjoy complete articles with photos and videos from trusted sources
+- Personal: Choose only the topics that are of interest to you, and personalize your home screen to see only the topics that matter to you.
+- In-depth: Explore related topics via Tag Nav™, our innovative keyword navigation system.
+- Customizable: Add custom RSS feed sources from your favorite websites.
+Featuring all the leading tech publications on the planet, including Engadget, TechCrunch, CNet and The Verge, get complete coverage on all your Tech News, your favorite gadgets, Video Games and many more topics.
+Appy Geek is available in 9 regional editions - USA, UK, Germany, Italy, France, Spain, LatAm, China and International.
+.
