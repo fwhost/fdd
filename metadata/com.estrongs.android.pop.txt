@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:ES File Explorer
+Description:
+ES File Explorer is a free, full-featured file and application manager.
+It functions as all of these apps in one: file manager, application manager, task killer, download manager, cloud storage client (compatible with Dropbox, Google Drive, SkyDrive, Box.net, Sugarsync, Yandex, Amazon S3, and Ubuntu One...), FTP client, and LAN Samba client.
+It provides access to pictures, music, video, documents, and other files on both your Android devices and your computers.
+.

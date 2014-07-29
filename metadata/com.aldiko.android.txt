@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Aldiko
+Description:
+Differences between the Aldiko Book Reader Premium and the Aldiko Book Reader Free are: the Aldiko Book Reader Premium has highlights (for EPUB files), notes (for EPUB files) and home widget features, gets faster update and does not contain advertisements.
+.

@@ -1,0 +1,10 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Video
+Summary:SPB TV
+Description:
+Use SPB TV to watch live and on-demand video services on your Android device or on TV via Chromecast, Miracast, WiDi. The app requires 3G, Wi-Fi or WiMAX Internet connection for smooth watching experience. Please note that data charges may apply for usage of SPB TV over phone’s wireless network.
+SPB TV is an Android Developer Challenge winner in Media category with more than 15 million users worldwide.
+.

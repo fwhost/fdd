@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Paperama
+Description:
+Enter a beautiful Origami world and bring it to life!
+**Introducing a new and unique puzzle adventure**
+- Fold the paper sheets to create origami figures
+- work as accurate as possible to fit the form
+- Don't use too many folds!
+.

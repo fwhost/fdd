@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Flow Free
+Description:
+Flow Free is a simple yet addictive puzzle game.
+Connect matching colors with pipe to create a flow. Pair all colors, and cover the entire board to solve each puzzle in Flow Free. But watch out, pipes will break if they cross or overlap!
+Free play through hundreds of levels, or race against the clock in Time Trial mode. Flow Free gameplay ranges from simple and relaxed, to challenging and frenetic, and everywhere in between.
+.

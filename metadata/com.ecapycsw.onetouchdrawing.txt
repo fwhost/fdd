@@ -1,0 +1,14 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:One t Draw
+Description:
+One touch Drawing is a simple yet very addictive puzzle.
+Many people have the experience playing this kind of game.
+The rule is very simple.
+Draw given figures with only one touch.
+The only problem is "You cannot draw twice the same line".
+According to clear levels, new lines and points like below will make it difficult.
+.
