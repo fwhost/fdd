@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Diccionario Chileno
+Description:
+Diccionario con palabras y frases típicas utilizadas por los chilenos. Incluye mas de 500 palabras y su significado.
+.

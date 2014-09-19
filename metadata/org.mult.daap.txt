@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Audio
+Summary:DAAP
+Description:
+Client for DAAP (Digital Audio Access Protocol) servers. Supports streaming, queuing, playlists, and searching.
+.

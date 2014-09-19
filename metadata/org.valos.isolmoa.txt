@@ -1,0 +1,16 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Isolmoa
+Description:
+Isolmoa is a two-player abstract strategy board game based on the Isola game. It is played on a board which is initially filled with squares. Both players have one piece.
+
+To begin, each player places his/her piece. Next, each turn of play is composed of two actions:
+
+    Moving his/her piece to a neighboring position
+    Removing any square with no piece on it.
+
+The goal of the game is to block the opponent by destroying all the squares which surround him before being blocked yourself.
+.

@@ -1,0 +1,16 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Floating Stickies
+Description:
+Sticky notes in a mini-window
+
+    Dock to the side & resize
+    Copy/Paste/Share
+    Smooth fun animations & colors
+    Save the state of the stickies
+    Simple & Clean look
+    Stickies are auto-saved
+.

@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AnySoftKeyboard: Pali
+Description:
+You may need a special font to display the diacritics properly: this would require root and instructions are here.
+
+Standard QWERTY keyboard layout with Pali and Sanskrit diacritics and Pali dictionary (about 75,000 of the most common word-forms in the Pali texts).
+
+Install AnySoftKeyboard first, then select the desired layout from AnySoftKeyboard's Settings->Keyboards menu
+.

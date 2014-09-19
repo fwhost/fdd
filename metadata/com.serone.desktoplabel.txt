@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:DesktopLabel
+Description:
+Allows you to add custom widgets to your 'desktop' to label things.
+.

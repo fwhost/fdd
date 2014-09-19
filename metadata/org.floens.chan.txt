@@ -1,0 +1,17 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Clover
+Description:
+Clover is a browser for the popular 4chan image board
+
+Features include:
+
+    Customizable boards - you can add more boards in the settings
+    View images fast and save them
+    Pin threads for easy access
+    Watch threads to be notified of new posts and replies to you
+    4chan pass support
+.

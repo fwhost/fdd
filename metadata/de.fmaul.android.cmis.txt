@@ -1,0 +1,15 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:CMIS Browser
+Description:
+Access content from repositories that support the CMIS protocol, like Alfresco or Nuxeo. CMIS = Content Management Interoperability Services.
+
+    browsing the CMIS repository
+    viewing and sharing documents
+    title or fulltext search
+    Favorites
+    Multiple Repositories
+.

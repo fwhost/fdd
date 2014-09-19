@@ -1,0 +1,18 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:News
+Summary:HN
+Description:
+Hacker News client with a focus on reliability and usability.
+
+    View articles in ViewText, Google, or your system browser (you can set each as default)
+    Upvote stories (long-press on story)
+    Collapse and expand comments by tapping on them
+    Choose from 3 text sizes
+    Switch between stories and comments with one tap
+    View "more" stories than only the HN frontpage
+
+A proprietary analytics library was removed before building.
+.

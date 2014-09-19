@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:GnuCash
+Description:
+A companion application for the desktop app GnuCash. It allows you to record transactions on-the-go and export them in the OFX format and later import the data into GnuCash for the desktop. You can create multiple accounts for transactions in GnuCash. You can't open your GnuCash (for desktop) XML files, however.
+.

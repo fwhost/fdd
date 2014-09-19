@@ -1,0 +1,15 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AnySoftKeyboard: Persian
+Description:
+N.B You may need to install Persian fonts. This process would require root and is described on the website.
+
+    Full Persian keyboards
+    Farsi and Pinglish word suggestion and auto completion
+    Persian numbers
+
+Dictionaries are based on the Hamshahri Corpus, which is free only for non-commercial use
+.

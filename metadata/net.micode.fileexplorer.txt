@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:File Explorer
+Description:
+Manage and open files on the phone or access them wirelessly on your computer via the built in ftp server. This project is part of the MiCode organization on GitHub.
+
+N.B. Website is in Chinese
+.

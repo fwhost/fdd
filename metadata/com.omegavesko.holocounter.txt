@@ -1,0 +1,12 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Holo Counter
+Description:
+    Press anywhere on the screen to count up. This is the main feature of the app.
+    Press a small area on the bottom of the screen to count down.
+    Set a custom step to count with. You can count down or up with basically any (whole) number you can think of.
+    Set a title for your count. Right now it's just a cosmetic feature, but it might evolve into a saving feature at some point.
+.

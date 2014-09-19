@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:DroidSat
+Description:
+This app has a minimal interface and complicated configuration so it is more suited towards advanced users. It uses Horst Meyerdierks' Sputnik 3.1 java codebase to calculate positions of satellites.
+.

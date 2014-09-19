@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:ControlDLNA
+Description:
+ControlDLNA is a DLNA and UPnP control point app for your phone.
+
+It lets you play audio and video from any DLNA or UPnP compatible server in the local network to a DLNA or UPnP renderer.
+
+Additionally, other apps can utilize the MediaRouter API to play their media on a remote device.
+.

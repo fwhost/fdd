@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Elementary
+Description:
+Tap the element to see info and access videos and Wikipedia articles.
+.

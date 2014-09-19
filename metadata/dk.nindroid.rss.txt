@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Floating Image
+Description:
+Streams images from various image hosting websites or RSS feeds as well as from the device and displays them in a continuous stream of floating images across the display. Works as a live wallpaper too.
+.

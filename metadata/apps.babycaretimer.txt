@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Baby Care Timer
+Description:
+Baby Care Timer is a timer for parents to track feedings, diaper changes and other important items.
+.

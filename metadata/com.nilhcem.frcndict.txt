@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Chinese French Dictionary
+Description:
+French/Chinese dictionary
+
+Older versions require a modified version of the CFDICT dictionary to be downloaded.
+.

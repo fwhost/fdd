@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:ChacunSonAsso
+Description:
+This app allows students wishing to volunteer to find an association that suits them. It allows you to search for associations in the Animafac directory, by theme, department and name.
+.

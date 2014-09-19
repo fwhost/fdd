@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:DroidWeight
+Description:
+Droid Weight is a simple, easy to use, weight tracking app that helps you keep a journal of your weight on your device. Besides weight, allows to track few other body parameters.
+.

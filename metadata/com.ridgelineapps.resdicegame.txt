@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Catan Dice Game
+Description:
+Unofficial version of a very famous resource dice board game. This version is not associated with the publishers of the original game.
+.

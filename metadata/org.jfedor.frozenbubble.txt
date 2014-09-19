@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Frozen Bubble
+Description:
+A bubble shooting game. Knock the bubbles down by forming clusters of three or more bubbles.
+.

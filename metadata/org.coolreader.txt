@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Cool Reader
+Description:
+An e-book reader. Supported formats: FB2, TXT, RTF, TCR, HTML, EPUB, CHM. Browse free books online and add your own OPDS shares.
+
+The default dictionary app is non-free. However, you can choose Aard as a dictionary from the Dictionary section of the Settings.
+.

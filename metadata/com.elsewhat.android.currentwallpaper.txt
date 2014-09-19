@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Current Wallpaper
+Description:
+Show the current wallpaper in fullscreen without conflicting elements from the launcher or app icons.
+.

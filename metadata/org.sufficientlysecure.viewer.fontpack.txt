@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Document Viewer Font Pack
+Description:
+Extra fonts for Document Viewer
+
+Academy, Academy Old, FreeFonts, URW Symbol and Free Nimbus L.
+.

@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:aCal
+Description:
+A CalDAV client, allowing you to directly access a calendar on a CalDAV server. aCal includes support for VEVENT & VTODO (Events and Tasks) and can also synchronize your contacts from an addressbook collection on a CardDAV server.
+.

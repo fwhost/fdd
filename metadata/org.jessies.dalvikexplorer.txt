@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Dalvik Explorer
+Description:
+Find out what Java system properties, environment variables, java.nio.charset.Charsets, java.util.Locales, or java.util.TimeZones are available to your app on a specific device. (Also useful for debugging problems users in other territories are experiencing.)
+.

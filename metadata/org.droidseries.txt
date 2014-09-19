@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Video
+Summary:DroidSeries
+Description:
+DroidSeries is a TV Series/TV Shows browser and tracker application for Android. It helps you manage your favorite TV shows and keep track of the episodes that you have or have not seen.
+.

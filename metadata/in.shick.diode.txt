@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Diode
+Description:
+Diode provides quick and easy access to Reddit on your device complete with login, commenting and submissions. Discuss Diode with other users at the official subreddit.
+.

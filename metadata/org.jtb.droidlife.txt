@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:DroidLife
+Description:
+An implementation of Conway's Game of Life.
+.

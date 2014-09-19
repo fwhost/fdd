@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:eSpeak TTS
+Description:
+Alternative Text-to-Speech Engine with support for more languages.
+.

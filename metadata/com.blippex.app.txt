@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:blippex
+Description:
+Searches Blippex, a search engine which allow the community to rank websites based on how long they spend there among other things. There are extensions for many or the desktop browsers.
+.

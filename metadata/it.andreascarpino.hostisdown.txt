@@ -1,0 +1,14 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:HostIsDown
+Description:
+Checks if a host is down.
+
+Features:
+
+    Ping a host by IP/hostname and return its status
+    Show the list of recent hosts
+.

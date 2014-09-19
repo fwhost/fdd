@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Galbijjim Searcher
+Description:
+Search images from the web
+
+The searches go via a korean website.
+.

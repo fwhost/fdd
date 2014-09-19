@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:EP Mobile
+Description:
+EP Mobile is an application that provides a set of tools for electrophysiologists and other health care workers who deal with cardiac arrhythmias. The program includes EP calculators, drug dose calculators, risk scores, diagnostic tools, ECG figures, and more.
+.

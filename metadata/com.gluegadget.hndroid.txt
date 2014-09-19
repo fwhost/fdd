@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:News
+Summary:HNdroid
+Description:
+Hacker News Client
+
+Read and comment to stories posted on news.ycombinator.com
+.

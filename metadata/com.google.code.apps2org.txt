@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Apps2Org
+Description:
+Apps2Org is a fork of Apps Organizer which fixes some usability issues. Apps2Org allows you to organize installed applications using labels/tags/categories. You can associate labels to applications, browse thru labeled categories and launch applications - either using the application or shortcut on your home screen.
+.

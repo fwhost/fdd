@@ -1,0 +1,16 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Daily Money
+Description:
+Finance manager
+
+    Record your daily expense, income, asset and liability
+    Show and count the details
+    Export/Import to CSV
+    Pie and time chart of balance
+
+The app has been built without the non-FOSS Google Analytics, so no usage statistics will be sent. Also the INTERNET permission has been removed as it didn't seem to be needed for anything else
+.

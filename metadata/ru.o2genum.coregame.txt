@@ -1,0 +1,12 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Core
+Description:
+The rules are simple:
+
+    protect the core (big cyan dot in the center of the screen) as long as possible
+    gain health (cyan dots) and use shields (blue dots)
+.

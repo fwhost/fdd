@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Droid Examiner
+Description:
+Simple app to display information about device hardware and software. Doesn't require a touchscreen.
+.

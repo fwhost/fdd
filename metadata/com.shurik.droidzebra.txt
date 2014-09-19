@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:DroidZebra
+Description:
+DroidZebra is advanced Reversi program based on Zebra Othello Engine written by Gunnar Andersson. Features:
+
+    difficulty levels from beginner (practice mode) to world-class play
+    opening book with more than 500,000 positions
+    unlimited undo
+.

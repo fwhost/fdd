@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Every Locale
+Description:
+Change the locale (language / country / variant) of your Android device. Supports auto-complete by human readable name or ISO code.
+.

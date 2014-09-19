@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Coin Flip
+Description:
+See Coin Flip Addon for extra coins.
+
+Newer versions of this app are available elsewhere, but have properietary dependencies.
+.

@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:File Manager
+Description:
+A backport of the CyanogenMod File Manager application to ICS and higher. This is an unofficial fork of the main CyanogenMod File Manager project.
+
+Requires root: No. By default you can't access /data or /system but that can be changed by choosing a different security access mode in the General preferences. Then root will be called for if you try to change something that normally can't be.
+.

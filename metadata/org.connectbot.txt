@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:ConnectBot
+Description:
+An SSH and telnet client, and terminal emulator for local shell. Supports multiple sessions, including running them concurrently.
+
+Hacker's Keyboard, AnySoftKeyboard: SSH and the Android PC-keyboard-layout in Android 4.1 are well suited to terminal work.
+.

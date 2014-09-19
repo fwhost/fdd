@@ -1,0 +1,15 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AnySoftKeyboard: SSH
+Description:
+A handy keyboard for terminal emulators, ssh clients (e.g. ConnectBot) and any application that requires a full keyboard. The keyboard learns your frequently used commands as you use it (you need to add your common commands for auto suggestion: only tested on VX ConnectBot).
+
+    Command suggestion (comes with basic dictionary)
+    Arrow keys for command history
+    CTRL key e.g. CTRL+E to jump to end of line
+    Tab key for completion (depends on shell)
+    Special characters as pop-ups
+.

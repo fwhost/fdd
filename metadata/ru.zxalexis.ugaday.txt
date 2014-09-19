@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Guess
+Description:
+Simple guessing game. The goal is to guess a random number from 1 to 100 with 8 tries.
+.

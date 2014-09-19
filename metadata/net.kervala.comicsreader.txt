@@ -1,0 +1,19 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Comics Reader
+Description:
+Comic and image viewer
+
+    Can be used to open cbz, cbt; jpeg, png and gif from any file manager.
+    Comics browser with thumbnails.
+    Bookmarks manager to download albums from remote sites.
+    Fast pages switcher with pages previews.
+    Double pages mode.
+    Fling gesture to change page with smooth animation.
+    Fullscreen for devices with physical buttons.
+    Use lower quality images (resolution is decreased) if any out of memory exception occurs.
+    Available in English, French & Turkish languages (any translators are welcome to contribute ^^)
+.

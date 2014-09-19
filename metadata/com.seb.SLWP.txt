@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Earth Live Wallpaper
+Description:
+Live wallpaper showing photorealistic and daytime-synchronized images of Earth and other planets flying thru space.
+.

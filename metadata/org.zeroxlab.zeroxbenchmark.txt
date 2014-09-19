@@ -1,0 +1,19 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:0xBenchmark
+Description:
+0Comprehensive benchmark suite, covering:
+
+    Java arithmetic
+    Java garbage collection
+    OpenGL|ES (3D)
+    2D canvas
+    JavaScript engine
+
+Allows to upload results to community server for comparison and analysis.
+
+Note: Native benchmarks requiring pre-installed binaries and root access are not available in this build.
+.

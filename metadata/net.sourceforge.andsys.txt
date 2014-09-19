@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AndSys ~ Apps
+Description:
+Package information
+
+    List all the applications installed on the device
+    Order by: name, package, install date or permissions
+    Filter launchable applications
+.

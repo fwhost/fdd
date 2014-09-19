@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AnySoftKeyboard: Classic PC Theme
+Description:
+Bright theme with a 3-D look.
+
+Install AnySoftKeyboard first, then select the desired layout from AnySoftKeyboard's Settings->Keyboard themes menu.
+.

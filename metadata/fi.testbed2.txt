@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Helsinki Testbed Viewer 2.0
+Description:
+With the application, you can, for example, view the real-time rain radar or current wind speed and direction. The maps cover the Southern Finland.
+
+The data is copyright the Helsinki Testbed Project and the app has nothing to do with that project: it's only a client.
+
+A proprietary ad library was removed.
+.

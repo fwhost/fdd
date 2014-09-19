@@ -1,0 +1,17 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Document Viewer
+Description:
+Document Viewer is a fork of the last GPL version of EBookDroid. Supports:
+
+    PDF
+    DjVu
+    XPS (OpenXPS)
+    Comic Books (cbz) (NO support for cbr (rar compressed))
+    FictionBook (fb2, fb2.zip)
+
+This apk supports all ABIs: ARM, x86 and MIPS.
+.

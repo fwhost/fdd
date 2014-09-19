@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AnySoftKeyboard: Hebrew
+Description:
+Hebrew keyboard layout (regular, 16 keys and Phonetic) and dictionary of over 100,000 words. Note: This will NOT install Hebrew fonts on your device!
+
+Dictionary comes from www.mila.cs.technion.ac.il. The source code is in another branch to the default.
+
+Install AnySoftKeyboard first, then select the desired layout from AnySoftKeyboard's Settings->Keyboards men
+.

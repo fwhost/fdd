@@ -1,0 +1,16 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Dasher
+Description:
+Dasher is an information-efficient, text-entry interface, driven by a natural continuous steering of the cursor into boxes representing the letter you want to input.
+
+Dasher is especially useful for text-entry wherever a full-size keyboard cannot be used — for example,
+
+    when operating a computer one-handed, by joystick, touchscreen, trackball, or mouse;
+    when operating a computer with zero hands (i.e., by head-mouse or by eyetracker);
+    on a palmtop computer;
+    on a wearable computer.
+.

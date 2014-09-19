@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Coin Flip Addon
+Description:
+Get different coins by installing this and choosing one of the new coins in the Coin Flip settings.
+
+Use the template on the source code page to create your own coins.
+.

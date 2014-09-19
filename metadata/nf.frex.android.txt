@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Frex
+Description:
+Generate unusual fractals such as Burning Ship and Odd Onion. The gallery has some amazing examples which can be opened via the app, since they have the .frex extension.
+.

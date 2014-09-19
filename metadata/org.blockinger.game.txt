@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Blockinger
+Description:
+Clone of the classic Tetris game for Android. Includes many levels of difficulty and a clean, intuitive user interface.
+.

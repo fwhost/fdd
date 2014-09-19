@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Halachic Prayer Times
+Description:
+List of halachic/halakhic times for Jewish prayers (zmanim and zmanei tefillot). It also has a prayer compass, time opinions, and reminders.
+.

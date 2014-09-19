@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Browser Intercept - Share URL
+Description:
+When opening a web URL from an app Android never show you the address, only a choice of browsers or opens the default browser. This app allows you to share the URL, so you can see what domain it is. You can install Flashify to give an option to return to a browser option.
+.

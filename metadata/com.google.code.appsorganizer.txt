@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Apps Organizer
+Description:
+Apps Organizer allows you to organize installed applications using labels. You can associate labels to applications, uninstall applications and create "label shortcuts" on the home screen.
+.

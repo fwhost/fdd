@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Bodha Converter
+Description:
+Supports general (binary, octal, decimal and hexadecimal) conversions up to 2^63-1 in their respective formats. It also supports ASCII characters in the range of NUL to DEL (0 - 127). A convenient table is also included for quick lookups also in the range of 0 - 127.
+.

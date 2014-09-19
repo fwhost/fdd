@@ -1,0 +1,21 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Gloomy Dungeons 3D
+Description:
+If you loved Doom and Wolfenstein 3D and want to go to back to gaming in the early ‘90s, Gloomy Dungeons 3D is for you! The game has so many features that you will be glued to your phone for hours. Watch out for sore fingers!
+
+    Virtual world simulation with 3D visuals
+    Different types of enemies
+    Travel through immense graphically detailed mazes
+    7 control modes
+    More than 5 hours of game play
+    25 different shooting locations
+    Unlock new weapons, skills and spill more blood
+    Optimized to run even on 1st Gen Android phones
+    All resources are free as in freedom (in f-droid.org version)
+
+Zeemote isn't supported and Google Analytics was removed before building.
+.

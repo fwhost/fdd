@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Addi
+Description:
+Addi is a mathematical computing environment like Matlab and Octave, but made to work on Android devices.
+
+The goal is for 100% compliance with how Octave works including a compatibility mode that makes the behavior more similar to Matlab (already very similar).
+.

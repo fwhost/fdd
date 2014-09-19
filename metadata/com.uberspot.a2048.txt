@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:2048
+Description:
+Port of the 2048 game by Gabriele Cirulli. It's playable without network connection.
+.

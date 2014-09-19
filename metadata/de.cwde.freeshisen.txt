@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:FreeShisen
+Description:
+Shisen-Sho is a Japanese tile-based game which uses Mahjong tiles. The objective is to match similar tiles in pairs until every tile has been removed.
+.

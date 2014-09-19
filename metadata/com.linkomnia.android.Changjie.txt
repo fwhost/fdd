@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Changjie Input Method
+Description:
+Supported Changjie ( Cangjie ) version 3 and 5, and Quick Method, with Phases support.
+
+The project is based on the new ibus-cangjie based library libcangjie. The dictionary is based on gcin
+.

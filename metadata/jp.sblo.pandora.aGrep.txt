@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:aGrep
+Description:
+An implementation of grep, the number one tool for finding something in a text file. It has a file browser for targeting specific directories and a switch for turning on case and regular expressions.
+.

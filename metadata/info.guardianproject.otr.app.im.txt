@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Communication
+Summary:ChatSecure
+Description:
+XMPP (Jabber) client that can do end-to-end encryption using the Off-the-Record Messaging protocol and can anonymize your chats via the Orbot app (root not required).
+
+The app used to be called GibberBot.
+.

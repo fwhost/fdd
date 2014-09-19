@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Cache Cleaner
+Description:
+Cache cleaning tool which does not require a rooted device. Features native Holo look and feel and fast operation.
+.

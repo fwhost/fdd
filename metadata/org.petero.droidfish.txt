@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:DroidFish
+Description:
+Port of the CuckooChess applet/engine.
+
+If you have Scid on the go installed you can read Scid database files directly from the app by long-pressing the board and choosing Load game from Scid file.
+.

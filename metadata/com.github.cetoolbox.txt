@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:CEToolbox
+Description:
+The CEToolbox project aims to provide a convenient tool for computing Capillary Electrophoresis parameters.
+.

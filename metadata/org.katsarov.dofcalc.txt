@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:DoF Calculator
+Description:
+DoF Calculator calculates depth of field (in photography) depending on selected camera/sensor type, focal length, aperture value and distance to subject.
+.

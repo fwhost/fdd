@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Currency Converter
+Description:
+A simple currency converter. It retrieves reference exchange rates from the European Central Bank (ECB), so supports these currencies.
+
+To have up to date rates, you need to enable "Background Update" in the "Preferences" page.
+.

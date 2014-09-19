@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Earth Live Wallpaper: Map Pack
+Description:
+If you find that you end up with a blank planet in Earth Live Wallpaper try installing this.
+.

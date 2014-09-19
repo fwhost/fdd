@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Fast Brightness Control Widget
+Description:
+Simple brightness widget
+
+There are five possible states which are configurable via the launcher
+.

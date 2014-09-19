@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Epoch Launcher
+Description:
+Launcher in the style of Sword Art Online. Allows categories via long-press, custom fonts, black/white themes.
+.

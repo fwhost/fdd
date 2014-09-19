@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:CPU Spy
+Description:
+Show time spent overall in each cpu state CPU and general kernel info.
+.

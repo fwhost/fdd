@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:Hydra Slayer
+Description:
+Hydra Slayer is a roguelike game where combat has been inspired by some mathematical puzzles about brave heroes slaying many headed beasts. This might look like a standard dungeon crawler, but the puzzle element is important, and the later game is meant to be challenging.
+.

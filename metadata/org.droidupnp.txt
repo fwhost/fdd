@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:DroidUPnP
+Description:
+Discover your home UPnP device, content provider, connected television or any device controllable by UPnP and allow you to control those. It also allow you to share your local content to other UPnP capable device.
+.

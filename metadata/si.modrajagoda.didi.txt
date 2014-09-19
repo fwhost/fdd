@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Did I?
+Description:
+Did I? is a habit tracking app which asks you a simple question about your habit every day: "Did I?"
+
+Enter the habits you want to build, and what time of day you want the app to ask you about them, and that's that.
+.

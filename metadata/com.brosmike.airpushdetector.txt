@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AirPush Detector
+Description:
+Discover where the ads are coming from
+
+If you like to install apps from other repos, and you start to get advertisements in your notification area, this will tell you what app is causing it.
+.

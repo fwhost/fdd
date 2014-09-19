@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Antikythera
+Description:
+The extraordinary "Antikythera Mechanism" is the oldest known complex scientific calculator, and it was built in Ancient Greece. Although it was built around 150-100BC its degree of mechanical sophistication is comparable to a 19th century Swiss clock.
+.

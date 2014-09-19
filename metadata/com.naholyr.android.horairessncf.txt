@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Horaires TER SNCF
+Description:
+Search for regional train (TER) stations in France. Display schedules and delays of regional SNCF trains.
+.

@@ -1,0 +1,17 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Eshotroid
+Description:
+Bus times in Turkey
+
+    See buses in İzmir, their locations and their times.
+    Search buses by their numbers and locations.
+    Mark your favorite buses for easy access.
+    See the remaining time for a bus by touching it's time.
+    You can update the bus list and bus times whenever you want.
+    You can query the balance of your Kent Kart.
+    Turkish or English
+.

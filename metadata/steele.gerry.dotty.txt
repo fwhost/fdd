@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Dotty
+Description:
+Dotty is a simple test application for diagnosing multitouch issues on android devices.
+.

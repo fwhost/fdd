@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Games
+Summary:Acrylic Paint
+Description:
+Acrylic Paint is a coloring tool based on the FingerPaint project taken from API demos.
+.

@@ -1,0 +1,13 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Debatekeeper
+Description:
+Time speeches in debates and have the bell ring automatically at the correct time. It supports most parliamentary styles of debating.
+
+The app rings a bell, vibrates and/or flashes the screen white (or any combination of the three) at bell times. It also rings overtime bells, which are configurable.
+
+There is a different bell sound, derived from the Bodhi Timer bell.
+.

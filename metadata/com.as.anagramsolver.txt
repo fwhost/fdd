@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AnagramSolver
+Description:
+Anagram Solver finds the words that can be created with some given letters. It supports English, Greek, Polish and French. By default only English is enabled; you can enable the other languages from the settings button on top.
+
+TIP: If you long click on a search result it will search for the words definition online.
+.

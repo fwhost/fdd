@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AndQuote
+Description:
+Read quotations
+
+Browse quote sites, mainly French ones.
+.

@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:FrOSCon
+Description:
+Schedule for the FrOSCon conference 2014. Shows the schedule for the Free and Opensource Software Conference (FrOSCon), which will happen on 23. - 24.8.14 for the 9. time.
+.

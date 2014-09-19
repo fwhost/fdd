@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Audio
+Summary:Jamendo
+Description:
+A music player tied to the jamendo.com site, a large resource of free-licensed music.
+.

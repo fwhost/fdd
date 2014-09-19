@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:BrowserQuest
+Description:
+This is a PhoneGap port of BrowserQuest, the HTML5 MMORPG (multiplayer online role-playing game) that Little Workshop created for Mozilla. It is an old-school action-RPG in which you explore a medieval land with your friends.
+
+This is an early version and there are some problems with using the onscreen keyboard to speak to others. Content is licensed as CC-BY-SA.
+.

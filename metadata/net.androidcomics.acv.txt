@@ -1,0 +1,17 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:ACV
+Description:
+Comic and image viewer
+
+    Opens CBZ/ZIP, ACV, (no CBR/RAR), JPEG, PNG, BMP & image folders (long tap)
+    Read comics from SD card
+    Left-to-right or right-to-left reading
+    Use touch screen or trackball to zoom, scroll & navigate
+    Next & previous screen cache
+
+The non-free Flurry Analytics library was removed before building.
+.

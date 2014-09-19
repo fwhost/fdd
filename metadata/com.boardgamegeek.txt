@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:BoardGameGeek
+Description:
+This app searches the board game data from boardgamegeek.com. It's not a game itself -- it's a reference tool that provides information about board games.
+.

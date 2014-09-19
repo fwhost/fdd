@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Instant Sound Effects
+Description:
+Play various sound effects, each indicating that you're bored; including rim-shots and crickets. In other words, it's a sound-bored (trombone sound).
+.

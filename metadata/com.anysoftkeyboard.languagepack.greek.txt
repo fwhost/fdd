@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:AnySoftKeyboard: Greek
+Description:
+Dictionary is based on the Wikipedia article database which can be distributed under the terms of either the GNU Free Documentation or the Creative Commons Attribution-ShareAlike licenses and has about 50,000 words.
+
+Install AnySoftKeyboard first, then select the desired layout from AnySoftKeyboard's Settings->Keyboards menu.
+.

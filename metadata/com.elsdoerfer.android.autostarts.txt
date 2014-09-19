@@ -1,0 +1,11 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Autostarts
+Description:
+Shows you what apps run when events occur and what other events trigger in the background. Root users can disable unwanted autostarts and speed up their phone boot.
+
+Requires Root: No. However, to make changes you will need root.
+.

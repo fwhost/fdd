@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Game
+Summary:DieDroid
+Description:
+This is an Android application for a dice roller suitable for many different purposes, but was designed as a tool for pen-and-paper RPGs. Includes a general dice roller, a dice pool roller that counts successes, and an ability score roller to roll stats for characters.
+.
