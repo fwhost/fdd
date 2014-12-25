@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+Categories:Tools
+Summary:Internet speed test
+Description:
+Use Ookla Speedtest for easy, one-tap connection testing in under 30 seconds—accurate anywhere thanks to our global network.
+.
